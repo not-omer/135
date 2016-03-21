@@ -19,12 +19,6 @@ import com.jagex.client.Panel;
 import com.jagex.client.Scene;
 import com.jagex.client.Surface;
 
-// TODO
-// push to git
-// changelog
-// show names above grounditems
-// alpha based on distance
-
 public class Client extends NetworkedGame {
   public static void main(String args[]) {
     Client client = new Client();
